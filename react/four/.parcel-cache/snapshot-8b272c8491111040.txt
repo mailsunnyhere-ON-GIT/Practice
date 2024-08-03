@@ -1,4 +1,19 @@
-5991
+5994
+96C:\Users\lenovo\Desktop\practice\react\four\node_modules\caniuse-lite\data\features\webcodecs.js133671516471804004 0
+103C:\Users\lenovo\Desktop\practice\react\four\node_modules\@swc\helpers\_\_class_private_field_loose_base133671516402305519 1
+65C:\Users\lenovo\Desktop\practice\react\four\node_modules\error-ex133671516211283231 1
+91C:\Users\lenovo\Desktop\practice\react\four\node_modules\type-fest\source\package-json.d.ts133671516312248276 0
+109C:\Users\lenovo\Desktop\practice\react\four\node_modules\css-select\node_modules\entities\lib\esm\decode.d.ts133671516349606608 0
+87C:\Users\lenovo\Desktop\practice\react\four\node_modules\node-addon-api\tools\README.md133671516308757388 0
+51C:\Users\lenovo\Desktop\practice\react\four\App.css133671830264111732 0
+108C:\Users\lenovo\Desktop\practice\react\four\node_modules\csso\node_modules\css-tree\lib\syntax\node\Ratio.js133671516401846746 0
+87C:\Users\lenovo\Desktop\practice\react\four\node_modules\csso\cjs\restructure\index.cjs133671516315959420 0
+63C:\Users\lenovo\Desktop\practice\react\four\node_modules\semver133671516335961611 1
+97C:\Users\lenovo\Desktop\practice\react\four\node_modules\css-tree\cjs\definition-syntax\parse.cjs133671516371434738 0
+84C:\Users\lenovo\Desktop\practice\react\four\node_modules\supports-color\package.json133671516216590174 0
+122C:\Users\lenovo\Desktop\practice\react\four\node_modules\csso\node_modules\css-tree\lib\syntax\node\PseudoClassSelector.js133671516401447805 0
+54C:\Users\lenovo\Desktop\practice\react\four\components133671848412171581 1
+112C:\Users\lenovo\Desktop\practice\react\four\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\sample-mdb.txt133671516386055968 0
 104C:\Users\lenovo\Desktop\practice\react\four\node_modules\caniuse-lite\data\features\rtcpeerconnection.js133671516455069642 0
 81C:\Users\lenovo\Desktop\practice\react\four\node_modules\abortcontroller-polyfill133671516290503603 1
 61C:\Users\lenovo\Desktop\practice\react\four\package-lock.json133671518969561563 0
@@ -6,24 +21,9 @@
 83C:\Users\lenovo\Desktop\practice\react\four\node_modules\@parcel\markdown-ansi\test133671516223393067 1
 56C:\Users\lenovo\Desktop\practice\react\four\node_modules133671518965533074 1
 110C:\Users\lenovo\Desktop\practice\react\four\node_modules\css-select\node_modules\domutils\lib\helpers.d.ts.map133671516312477432 0
-51C:\Users\lenovo\Desktop\practice\react\four\App.jsx133671836661188382 0
+51C:\Users\lenovo\Desktop\practice\react\four\App.jsx133671855598839635 0
 70C:\Users\lenovo\Desktop\practice\react\four\node_modules\react-dom\cjs133671516756390519 1
 75C:\Users\lenovo\Desktop\practice\react\four\node_modules\is-json\.npmignore133671516191296095 0
-96C:\Users\lenovo\Desktop\practice\react\four\node_modules\caniuse-lite\data\features\webcodecs.js133671516471804004 0
-103C:\Users\lenovo\Desktop\practice\react\four\node_modules\@swc\helpers\_\_class_private_field_loose_base133671516402305519 1
-65C:\Users\lenovo\Desktop\practice\react\four\node_modules\error-ex133671516211283231 1
-87C:\Users\lenovo\Desktop\practice\react\four\node_modules\csso\cjs\restructure\index.cjs133671516315959420 0
-63C:\Users\lenovo\Desktop\practice\react\four\node_modules\semver133671516335961611 1
-97C:\Users\lenovo\Desktop\practice\react\four\node_modules\css-tree\cjs\definition-syntax\parse.cjs133671516371434738 0
-84C:\Users\lenovo\Desktop\practice\react\four\node_modules\supports-color\package.json133671516216590174 0
-122C:\Users\lenovo\Desktop\practice\react\four\node_modules\csso\node_modules\css-tree\lib\syntax\node\PseudoClassSelector.js133671516401447805 0
-54C:\Users\lenovo\Desktop\practice\react\four\components133671833995940146 1
-112C:\Users\lenovo\Desktop\practice\react\four\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\sample-mdb.txt133671516386055968 0
-91C:\Users\lenovo\Desktop\practice\react\four\node_modules\svgo\plugins\convertShapeToPath.js133671516340341786 0
-81C:\Users\lenovo\Desktop\practice\react\four\node_modules\js-yaml\dist\js-yaml.mjs133671516326543323 0
-105C:\Users\lenovo\Desktop\practice\react\four\node_modules\@swc\helpers\_\_array_without_holes\package.json133671516397218115 0
-56C:\Users\lenovo\Desktop\practice\react\four\package.json133671518965772533 0
-103C:\Users\lenovo\Desktop\practice\react\four\node_modules\caniuse-lite\data\features\cookie-store-api.js133671516376152118 0
 126C:\Users\lenovo\Desktop\practice\react\four\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\removeDoctype.js133671516335535534 0
 75C:\Users\lenovo\Desktop\practice\react\four\node_modules\domutils\readme.md133671516301156909 0
 67C:\Users\lenovo\Desktop\practice\react\four\node_modules\is-extglob133671516212280882 1
@@ -32,7 +32,7 @@
 98C:\Users\lenovo\Desktop\practice\react\four\node_modules\scheduler\cjs\scheduler.production.min.js133671516753272215 0
 113C:\Users\lenovo\Desktop\practice\react\four\node_modules\css-select\node_modules\entities\lib\esm\decode.d.ts.map133671516323539205 0
 103C:\Users\lenovo\Desktop\practice\react\four\node_modules\electron-to-chromium\full-chromium-versions.js133671516206535615 0
-48C:\Users\lenovo\Desktop\practice\react\four\dist133671836312365057 1
+48C:\Users\lenovo\Desktop\practice\react\four\dist133671848464579622 1
 91C:\Users\lenovo\Desktop\practice\react\four\node_modules\type-fest\ts41\delimiter-case.d.ts133671516281956231 0
 99C:\Users\lenovo\Desktop\practice\react\four\node_modules\caniuse-lite\data\features\css-rrggbbaa.js133671516400739700 0
 82C:\Users\lenovo\Desktop\practice\react\four\node_modules\resolve-from\package.json133671516180703626 0
@@ -71,6 +71,11 @@
 96C:\Users\lenovo\Desktop\practice\react\four\node_modules\@swc\helpers\src\_wrap_native_super.mjs133671516424200124 0
 84C:\Users\lenovo\Desktop\practice\react\four\node_modules\regenerator-runtime\path.js133671516192193680 0
 91C:\Users\lenovo\Desktop\practice\react\four\node_modules\caniuse-lite\data\features\xhr2.js133671516472701606 0
+91C:\Users\lenovo\Desktop\practice\react\four\node_modules\svgo\plugins\convertShapeToPath.js133671516340341786 0
+81C:\Users\lenovo\Desktop\practice\react\four\node_modules\js-yaml\dist\js-yaml.mjs133671516326543323 0
+105C:\Users\lenovo\Desktop\practice\react\four\node_modules\@swc\helpers\_\_array_without_holes\package.json133671516397218115 0
+56C:\Users\lenovo\Desktop\practice\react\four\package.json133671518965772533 0
+103C:\Users\lenovo\Desktop\practice\react\four\node_modules\caniuse-lite\data\features\cookie-store-api.js133671516376152118 0
 117C:\Users\lenovo\Desktop\practice\react\four\node_modules\caniuse-lite\data\features\img-naturalwidth-naturalheight.js133671516422374996 0
 61C:\Users\lenovo\Desktop\practice\react\four\node_modules\.bin133671516757163634 1
 63C:\Users\lenovo\Desktop\practice\react\four\node_modules\dotenv133671516251136473 1
@@ -816,8 +821,6 @@
 75C:\Users\lenovo\Desktop\practice\react\four\node_modules\argparse\README.md133671516270417973 0
 91C:\Users\lenovo\Desktop\practice\react\four\node_modules\@parcel\runtime-service-worker\src133671516207852419 1
 80C:\Users\lenovo\Desktop\practice\react\four\node_modules\to-regex-range\index.js133671516191425734 0
-91C:\Users\lenovo\Desktop\practice\react\four\node_modules\type-fest\source\package-json.d.ts133671516312248276 0
-109C:\Users\lenovo\Desktop\practice\react\four\node_modules\css-select\node_modules\entities\lib\esm\decode.d.ts133671516349606608 0
 94C:\Users\lenovo\Desktop\practice\react\four\node_modules\@parcel\core\test\BundleGraph.test.js133671516335821814 0
 106C:\Users\lenovo\Desktop\practice\react\four\node_modules\caniuse-lite\data\features\css-overflow-anchor.js133671516397896287 0
 102C:\Users\lenovo\Desktop\practice\react\four\node_modules\@parcel\runtime-browser-hmr\lib\HMRRuntime.js133671516252153741 0
@@ -1824,7 +1827,7 @@
 74C:\Users\lenovo\Desktop\practice\react\four\node_modules\parcel\lib\cli.js133671516229118465 0
 77C:\Users\lenovo\Desktop\practice\react\four\node_modules\ordered-binary\.idea133671516292359183 1
 106C:\Users\lenovo\Desktop\practice\react\four\node_modules\caniuse-lite\data\features\css-backdrop-filter.js133671516378874840 0
-67C:\Users\lenovo\Desktop\practice\react\four\dist\index.c41b5a0e.css133671836311984529 0
+67C:\Users\lenovo\Desktop\practice\react\four\dist\index.c41b5a0e.css133671848464240535 0
 111C:\Users\lenovo\Desktop\practice\react\four\node_modules\@parcel\runtime-browser-hmr\src\loaders\.eslintrc.json133671516266002796 0
 81C:\Users\lenovo\Desktop\practice\react\four\node_modules\htmlparser2\lib\index.js133671516206395977 0
 78C:\Users\lenovo\Desktop\practice\react\four\node_modules\ordered-binary\assets133671516283302605 1
@@ -1999,7 +2002,6 @@
 88C:\Users\lenovo\Desktop\practice\react\four\node_modules\caniuse-lite\data\regions\KN.js133671516428449209 0
 117C:\Users\lenovo\Desktop\practice\react\four\node_modules\@swc\helpers\_\_class_static_private_method_get\package.json133671516404490167 0
 74C:\Users\lenovo\Desktop\practice\react\four\node_modules\dotenv-expand\lib133671516251764790 1
-87C:\Users\lenovo\Desktop\practice\react\four\node_modules\node-addon-api\tools\README.md133671516308757388 0
 84C:\Users\lenovo\Desktop\practice\react\four\node_modules\csso\cjs\replace\Atrule.cjs133671516280489672 0
 77C:\Users\lenovo\Desktop\practice\react\four\node_modules\msgpackr-extract\bin133671516220041633 1
 79C:\Users\lenovo\Desktop\practice\react\four\node_modules\lmdb\dependencies\lmdb133671516222096510 1
@@ -2056,9 +2058,6 @@
 78C:\Users\lenovo\Desktop\practice\react\four\node_modules\browserslist\parse.js133671516261460792 0
 89C:\Users\lenovo\Desktop\practice\react\four\node_modules\css-what\lib\commonjs\parse.d.ts133671516308178922 0
 76C:\Users\lenovo\Desktop\practice\react\four\node_modules\msgpackr\index.d.ts133671516344361103 0
-122C:\Users\lenovo\Desktop\practice\react\four\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\dist\svgo.browser.js133671516361835279 0
-88C:\Users\lenovo\Desktop\practice\react\four\node_modules\@swc\helpers\cjs\_ts_values.cjs133671516365675007 0
-83C:\Users\lenovo\Desktop\practice\react\four\node_modules\lightningcss\node\flags.js133671516273959644 0
 87C:\Users\lenovo\Desktop\practice\react\four\node_modules\css-what\lib\commonjs\parse.js133671516249609980 0
 74C:\Users\lenovo\Desktop\practice\react\four\node_modules\msgpackr\index.js133671516289456389 0
 79C:\Users\lenovo\Desktop\practice\react\four\node_modules\msgpackr\node-index.js133671516299351402 0
@@ -2306,6 +2305,9 @@
 87C:\Users\lenovo\Desktop\practice\react\four\node_modules\@parcel\core\lib\Dependency.js133671516349444459 0
 91C:\Users\lenovo\Desktop\practice\react\four\node_modules\@parcel\core\src\resolveOptions.js133671516379762468 0
 93C:\Users\lenovo\Desktop\practice\react\four\node_modules\lightningcss\node\composeVisitors.js133671516270469422 0
+122C:\Users\lenovo\Desktop\practice\react\four\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\dist\svgo.browser.js133671516361835279 0
+88C:\Users\lenovo\Desktop\practice\react\four\node_modules\@swc\helpers\cjs\_ts_values.cjs133671516365675007 0
+83C:\Users\lenovo\Desktop\practice\react\four\node_modules\lightningcss\node\flags.js133671516273959644 0
 85C:\Users\lenovo\Desktop\practice\react\four\node_modules\lightningcss\node\index.d.ts133671516301376490 0
 94C:\Users\lenovo\Desktop\practice\react\four\node_modules\abortcontroller-polyfill\src\utils.js133671516284080765 0
 83C:\Users\lenovo\Desktop\practice\react\four\node_modules\lightningcss\node\index.js133671516276734955 0
@@ -2352,6 +2354,7 @@
 88C:\Users\lenovo\Desktop\practice\react\four\node_modules\caniuse-lite\data\regions\FO.js133671516413906190 0
 96C:\Users\lenovo\Desktop\practice\react\four\node_modules\htmlnano\lib\modules\removeComments.mjs133671516371454682 0
 99C:\Users\lenovo\Desktop\practice\react\four\node_modules\caniuse-lite\data\features\font-kerning.js133671516414235325 0
+72C:\Users\lenovo\Desktop\practice\react\four\components\CountriesList.jsx133671844876064097 0
 76C:\Users\lenovo\Desktop\practice\react\four\node_modules\json5\lib\util.d.ts133671516308009374 0
 76C:\Users\lenovo\Desktop\practice\react\four\node_modules\json5\dist\index.js133671516207942172 0
 80C:\Users\lenovo\Desktop\practice\react\four\node_modules\json5\dist\index.min.js133671516249490295 0
@@ -2951,7 +2954,6 @@
 106C:\Users\lenovo\Desktop\practice\react\four\node_modules\css-select\node_modules\domutils\lib\index.js.map133671516318474607 0
 134C:\Users\lenovo\Desktop\practice\react\four\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\lib\svgo\css-select-adapter.d.ts133671516365665027 0
 124C:\Users\lenovo\Desktop\practice\react\four\node_modules\csso\node_modules\css-tree\lib\syntax\node\PseudoElementSelector.js133671516401747009 0
-108C:\Users\lenovo\Desktop\practice\react\four\node_modules\csso\node_modules\css-tree\lib\syntax\node\Ratio.js133671516401846746 0
 107C:\Users\lenovo\Desktop\practice\react\four\node_modules\csso\node_modules\css-tree\lib\syntax\node\Rule.js133671516402135972 0
 115C:\Users\lenovo\Desktop\practice\react\four\node_modules\csso\node_modules\css-tree\lib\syntax\node\SelectorList.js133671516402714428 0
 84C:\Users\lenovo\Desktop\practice\react\four\node_modules\css-tree\lib\lexer\error.js133671516388564929 0
@@ -3310,7 +3312,7 @@
 78C:\Users\lenovo\Desktop\practice\react\four\node_modules\@lezer\common\LICENSE133671516181072637 0
 91C:\Users\lenovo\Desktop\practice\react\four\node_modules\css-tree\lib\parser\SyntaxError.js133671516404450291 0
 75C:\Users\lenovo\Desktop\practice\react\four\node_modules\boolbase\README.md133671516191296095 0
-59C:\Users\lenovo\Desktop\practice\react\four\dist\index.html133671836311984529 0
+59C:\Users\lenovo\Desktop\practice\react\four\dist\index.html133671848445969703 0
 115C:\Users\lenovo\Desktop\practice\react\four\node_modules\@parcel\optimizer-htmlnano\node_modules\css-select\LICENSE133671516181710922 0
 86C:\Users\lenovo\Desktop\practice\react\four\node_modules\css-tree\lib\lexer\generic.js133671516390030996 0
 84C:\Users\lenovo\Desktop\practice\react\four\node_modules\css-tree\lib\lexer\Lexer.js133671516397597089 0
@@ -4663,7 +4665,6 @@
 95C:\Users\lenovo\Desktop\practice\react\four\node_modules\@swc\helpers\src\_get_prototype_of.mjs133671516421058516 0
 106C:\Users\lenovo\Desktop\practice\react\four\node_modules\@swc\helpers\src\_initializer_define_property.mjs133671516421317942 0
 105C:\Users\lenovo\Desktop\practice\react\four\node_modules\@swc\helpers\src\_initializer_warning_helper.mjs133671516421407783 0
-83C:\Users\lenovo\Desktop\practice\react\four\node_modules\@parcel\workers\index.d.ts133671516338086801 0
 102C:\Users\lenovo\Desktop\practice\react\four\node_modules\@swc\helpers\src\_iterable_to_array_limit.mjs133671516421866571 0
 131C:\Users\lenovo\Desktop\practice\react\four\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\node\String.js133671516376351589 0
 105C:\Users\lenovo\Desktop\practice\react\four\node_modules\@swc\helpers\src\_object_destructuring_empty.mjs133671516422374996 0
@@ -4821,6 +4822,7 @@
 70C:\Users\lenovo\Desktop\practice\react\four\node_modules\@parcel\utils133671516363520764 1
 72C:\Users\lenovo\Desktop\practice\react\four\node_modules\@parcel\watcher133671516256281583 1
 82C:\Users\lenovo\Desktop\practice\react\four\node_modules\@parcel\watcher-win32-x64133671516212839754 1
+83C:\Users\lenovo\Desktop\practice\react\four\node_modules\@parcel\workers\index.d.ts133671516338086801 0
 85C:\Users\lenovo\Desktop\practice\react\four\node_modules\@parcel\workers\package.json133671516337755182 0
 114C:\Users\lenovo\Desktop\practice\react\four\node_modules\@parcel\transformer-html\node_modules\srcset\package.json133671516206286288 0
 76C:\Users\lenovo\Desktop\practice\react\four\node_modules\@parcel\workers\src133671516335851740 1
@@ -4933,7 +4935,7 @@
 85C:\Users\lenovo\Desktop\practice\react\four\node_modules\@parcel\types\lib\index.d.ts133671516264156315 0
 86C:\Users\lenovo\Desktop\practice\react\four\node_modules\@parcel\types\lib\unsafe.d.ts133671516269727532 0
 84C:\Users\lenovo\Desktop\practice\react\four\node_modules\@parcel\transformer-svg\lib133671516261663649 1
-71C:\Users\lenovo\Desktop\practice\react\four\dist\index.c41b5a0e.css.map133671836312124156 0
+71C:\Users\lenovo\Desktop\practice\react\four\dist\index.c41b5a0e.css.map133671848464390126 0
 88C:\Users\lenovo\Desktop\practice\react\four\node_modules\@parcel\transformer-svg\LICENSE133671516181561348 0
 93C:\Users\lenovo\Desktop\practice\react\four\node_modules\@parcel\transformer-svg\package.json133671516272177429 0
 84C:\Users\lenovo\Desktop\practice\react\four\node_modules\@parcel\transformer-svg\src133671516268126008 1
@@ -5986,7 +5988,8 @@
 70C:\Users\lenovo\Desktop\practice\react\four\node_modules\.bin\svgo.ps1133671516496892061 0
 88C:\Users\lenovo\Desktop\practice\react\four\node_modules\.bin\update-browserslist-db.cmd133671516496941916 0
 66C:\Users\lenovo\Desktop\practice\react\four\dist\index.3d214d75.js133671525358099309 0
-51C:\Users\lenovo\Desktop\practice\react\four\App.css133671830264111732 0
+70C:\Users\lenovo\Desktop\practice\react\four\components\CountryCard.jsx133671847561779258 0
 69C:\Users\lenovo\Desktop\practice\react\four\components\SelectMenu.jsx133671834259365411 0
-66C:\Users\lenovo\Desktop\practice\react\four\dist\index.d498c491.js133671836311994510 0
-70C:\Users\lenovo\Desktop\practice\react\four\dist\index.d498c491.js.map133671836312213929 0
+60C:\Users\lenovo\Desktop\practice\react\four\countriesData.js133671842138120298 0
+66C:\Users\lenovo\Desktop\practice\react\four\dist\index.d498c491.js133671848457433634 0
+70C:\Users\lenovo\Desktop\practice\react\four\dist\index.d498c491.js.map133671848458760066 0
