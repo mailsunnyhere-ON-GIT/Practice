@@ -2,10 +2,12 @@ import React from 'react'
 import countriesData from '../countriesData'
 import CountryCard from './CountryCard'
 
-export default function CountriesList() {
+export default function CountriesList({onScreen}) {
   return (
     <div className="countries-container">
-      {countriesData.map((country) => {
+      {countriesData.filter((country)=>country.name.common.toLowerCase()
+      .includes(onScreen))
+      .map((country) => {
         return (
           <CountryCard
             key={country.name.common}

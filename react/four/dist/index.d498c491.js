@@ -27229,13 +27229,17 @@ var _selectMenu = require("./components/SelectMenu");
 var _selectMenuDefault = parcelHelpers.interopDefault(_selectMenu);
 var _countriesList = require("./components/CountriesList");
 var _countriesListDefault = parcelHelpers.interopDefault(_countriesList);
+var _react = require("react");
 var _appCss = require("./App.css");
+var _s = $RefreshSig$();
 const App = ()=>{
+    _s();
+    const [onScreen, setonScreen] = (0, _react.useState)("");
     return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _jsxDevRuntime.Fragment), {
         children: [
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _headerDefault.default), {}, void 0, false, {
                 fileName: "App.jsx",
-                lineNumber: 11,
+                lineNumber: 13,
                 columnNumber: 7
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("main", {
@@ -27243,36 +27247,41 @@ const App = ()=>{
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
                         className: "search-filter-container",
                         children: [
-                            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _searchBarDefault.default), {}, void 0, false, {
+                            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _searchBarDefault.default), {
+                                setonScreen: setonScreen
+                            }, void 0, false, {
                                 fileName: "App.jsx",
-                                lineNumber: 14,
+                                lineNumber: 16,
                                 columnNumber: 11
                             }, undefined),
                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _selectMenuDefault.default), {}, void 0, false, {
                                 fileName: "App.jsx",
-                                lineNumber: 15,
+                                lineNumber: 17,
                                 columnNumber: 11
                             }, undefined)
                         ]
                     }, void 0, true, {
                         fileName: "App.jsx",
-                        lineNumber: 13,
+                        lineNumber: 15,
                         columnNumber: 9
                     }, undefined),
-                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _countriesListDefault.default), {}, void 0, false, {
+                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _countriesListDefault.default), {
+                        onScreen: onScreen
+                    }, void 0, false, {
                         fileName: "App.jsx",
-                        lineNumber: 17,
+                        lineNumber: 19,
                         columnNumber: 9
                     }, undefined)
                 ]
             }, void 0, true, {
                 fileName: "App.jsx",
-                lineNumber: 12,
+                lineNumber: 14,
                 columnNumber: 7
             }, undefined)
         ]
     }, void 0, true);
 };
+_s(App, "CFqawoyR/npCVoqvRV3ThA6TUeg=");
 _c = App;
 exports.default = App;
 var _c;
@@ -27283,7 +27292,7 @@ $RefreshReg$(_c, "App");
   window.$RefreshReg$ = prevRefreshReg;
   window.$RefreshSig$ = prevRefreshSig;
 }
-},{"react/jsx-dev-runtime":"iTorj","./components/Header":"6nmoh","./App.css":"7g3a6","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru","./components/SearchBar":"4HJPW","./components/SelectMenu":"hfvcB","./components/CountriesList":"bJsk6"}],"6nmoh":[function(require,module,exports) {
+},{"react/jsx-dev-runtime":"iTorj","./components/Header":"6nmoh","./components/SearchBar":"4HJPW","./components/SelectMenu":"hfvcB","./components/CountriesList":"bJsk6","./App.css":"7g3a6","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru","react":"21dqq"}],"6nmoh":[function(require,module,exports) {
 var $parcel$ReactRefreshHelpers$6433 = require("@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js");
 var prevRefreshReg = window.$RefreshReg$;
 var prevRefreshSig = window.$RefreshSig$;
@@ -27521,7 +27530,7 @@ function registerExportsForReactRefresh(module1) {
     }
 }
 
-},{"7422ead32dcc1e6b":"786KC"}],"7g3a6":[function() {},{}],"4HJPW":[function(require,module,exports) {
+},{"7422ead32dcc1e6b":"786KC"}],"4HJPW":[function(require,module,exports) {
 var $parcel$ReactRefreshHelpers$e8d4 = require("@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js");
 var prevRefreshReg = window.$RefreshReg$;
 var prevRefreshSig = window.$RefreshSig$;
@@ -27534,7 +27543,7 @@ parcelHelpers.export(exports, "default", ()=>SearchBar);
 var _jsxDevRuntime = require("react/jsx-dev-runtime");
 var _react = require("react");
 var _reactDefault = parcelHelpers.interopDefault(_react);
-function SearchBar() {
+function SearchBar({ setonScreen }) {
     return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
         className: "search-container",
         children: [
@@ -27547,6 +27556,7 @@ function SearchBar() {
             }, this),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("input", {
                 type: "text",
+                onChange: (e)=>setonScreen(e.target.value.toLowerCase()),
                 placeholder: "Search for a country..."
             }, void 0, false, {
                 fileName: "components/SearchBar.jsx",
@@ -27667,10 +27677,10 @@ var _countriesData = require("../countriesData");
 var _countriesDataDefault = parcelHelpers.interopDefault(_countriesData);
 var _countryCard = require("./CountryCard");
 var _countryCardDefault = parcelHelpers.interopDefault(_countryCard);
-function CountriesList() {
+function CountriesList({ onScreen }) {
     return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
         className: "countries-container",
-        children: (0, _countriesDataDefault.default).map((country)=>{
+        children: (0, _countriesDataDefault.default).filter((country)=>country.name.common.toLowerCase().includes(onScreen)).map((country)=>{
             return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _countryCardDefault.default), {
                 name: country.name.common,
                 flag: country.flags.svg,
@@ -27679,7 +27689,7 @@ function CountriesList() {
                 capital: country.capital?.[0]
             }, country.name.common, false, {
                 fileName: "components/CountriesList.jsx",
-                lineNumber: 10,
+                lineNumber: 12,
                 columnNumber: 11
             }, this);
         })
@@ -80851,6 +80861,6 @@ $RefreshReg$(_c, "CountryCard");
   window.$RefreshReg$ = prevRefreshReg;
   window.$RefreshSig$ = prevRefreshSig;
 }
-},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru"}]},["dlFZn","1xC6H","g9R30"], "g9R30", "parcelRequire0d6b")
+},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru"}],"7g3a6":[function() {},{}]},["dlFZn","1xC6H","g9R30"], "g9R30", "parcelRequire0d6b")
 
 //# sourceMappingURL=index.d498c491.js.map
